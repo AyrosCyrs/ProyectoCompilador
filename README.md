@@ -16,7 +16,7 @@ Compilador construido desde cero en Java, como proyecto de la materia de Compila
 - Implementa un parser **LALR(1)** (más potente, usado en compiladores reales)
 - Incluye un analizador estático para validar la estructura del código
 
-## 🛠️ Tecnologías utilizadas
+## Tecnologías utilizadas
 
 - **Java** — lenguaje principal del proyecto
 - **Maven** — gestor de dependencias y construcción del proyecto
